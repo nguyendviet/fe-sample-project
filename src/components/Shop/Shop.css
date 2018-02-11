@@ -12,13 +12,12 @@ hr {
     z-index: 10;
     display: none;
     padding: 10%;
-    overflow: overlay;
+    overflow: auto;
 }
 
 .show {
     display: block;
 }
-
 
 .shop-page {
     position: relative;

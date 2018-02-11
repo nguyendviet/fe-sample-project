@@ -99,7 +99,7 @@ class Shop extends Component {
                 <div className={this.state.showCart ? "cart-page show" : "cart-page"}>
                     {this.state.showCart
                         ? (
-                            <div className="container col-6 col-lg-4 text-center cart-items">
+                            <div className="container col-6 col-lg-4 text-center">
                                 <h4>Your Cart</h4>
                                 {this.state.cart.length !== 0
                                     ? (
