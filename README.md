@@ -8,7 +8,7 @@ We used the [Lato font](https://fonts.google.com/specimen/Lato "The Lato Font") 
 **Happy coding!**
 
 ### Demo:
-* GitHub IO: [Solution](https://nguyendviet.github.io/fe-sample-project/)
+* Heroku: [Solution](https://sellbrite-sample.herokuapp.com/)
 
 ### Logic:
 * Users can add items to cart or remove items from cart. Number of items and total bill in cart are updated accordingly.
