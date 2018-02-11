@@ -11,12 +11,14 @@ hr {
     position: absolute;
     z-index: 10;
     display: none;
-    padding-top: 15%;
+    padding: 10%;
+    overflow: overlay;
 }
 
 .show {
     display: block;
 }
+
 
 .shop-page {
     position: relative;
