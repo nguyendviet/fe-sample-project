@@ -8,6 +8,10 @@
     white-space: nowrap;
 }
 
+.logo {
+    color: white;
+}
+
 .item-count {
     background-color: white;
     padding: 0 1rem;
