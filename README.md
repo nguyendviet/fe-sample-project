@@ -23,19 +23,7 @@ After cloning the repo to your local machine, go to its folder and run:
 ```
 $ yarn install
 ```
-Next, go to folder **client/**:
-```
-$ cd client
-```
-Install dependencies for the client:
-```
-$ yarn install
-```
-Then go back to the root folder:
-```
-$ cd ..
-```
-Start the app:
+Then start the app:
 ```
 $ yarn start
 ```
