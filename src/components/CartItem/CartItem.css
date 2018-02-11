@@ -1,0 +1,8 @@
+img {
+    display: inline-block;
+    width: 150px;
+}
+
+.remove-item {
+    color: red;
+}

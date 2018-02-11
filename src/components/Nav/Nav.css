@@ -1,0 +1,14 @@
+.nav {
+    background: #5133a4;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: calc(12px + (24 - 15) * (100vw - 320px) / (1200 - 400));
+    white-space: nowrap;
+}
+
+.item-count {
+    background-color: white;
+    padding: 0 1rem;
+}
